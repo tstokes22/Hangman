@@ -3,11 +3,11 @@
 A simple Hangman game written in Java.
 
 ## Overview
-This project is a classic Hangman word-guessing game implemented in Java. The player guesses letters until they either reveal the word or run out of attempts. :contentReference[oaicite:1]{index=1}
+This project is a classic Hangman word-guessing game implemented in Java. The player guesses letters until they either reveal the word or run out of attempts.
 
 ## Tech
-- Java :contentReference[oaicite:2]{index=2}
-- Source code lives in `src/` :contentReference[oaicite:3]{index=3}
+- Java 
+- Source code lives in `src/` 
 
 ## Getting Started
 
